@@ -1,8 +1,12 @@
 {
+  "name": "bilibili-liveroom-util",
+  "description": "bilibili直播间流获取和实时弹幕",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiangmouren/bilibili-liveroom-util"
+  },
   "dependencies": {
-    "node-fetch": "^2.6.1",
-    "request": "^2.88.2",
-    "request-promise-native": "^1.0.9",
+    "axios": "^0.27.2",
     "ws": "^7.4.4"
   }
 }

@@ -1,23 +1,12 @@
-# Bilibili Live
+# bilibili live room util
 
-属本人分析B站直播前端代码写出的项目。
+bilibili直播间流获取和实时弹幕
 
 解码弹幕发送心跳和接收解密。
 
-分享本仓库代码仅为个人研究，请勿做为非法用途。
-
-
-
-使用Websocket协议实现实时消息接收。
-
-并一键获取直播间直播流。
-
-效果截图
+实时消息接收。获取直播流。
 
 ![](https://i.loli.net/2021/03/21/LuX6VPrFj3HeqxZ.png)
 
 ![](https://i.loli.net/2021/03/21/NJhL9fuj2snIUB3.png)
 
-# Bug
-
-请编辑issues反馈
